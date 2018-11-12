@@ -4,3 +4,14 @@ body {
     font-family: Arial, sans-serif;
 }
 
+#contentoverview {
+    color: whitesmoke;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    padding: 6px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border: 3px white;
+}
+
