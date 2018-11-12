@@ -16,4 +16,9 @@ body {
     font-size: 18px;
     font-weight: bold;
     border: 4px solid white;
+    list-style: none;
+}
+
+#contentoverview ul {
+    list-style-type: none;
 }
