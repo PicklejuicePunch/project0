@@ -20,3 +20,33 @@ body {
 #contentoverview ul {
     list-style-type: none;
 }
+
+.pagetitle {
+    color: #edc534;
+    background-color: #9e0c31;
+    font-family: Arial, sans-serif;
+    width: 90%;
+    font-size: 24px;
+    font-weight: bolder;
+    text-align: center;
+    margin: auto;
+}
+
+.pagesubtitle {
+    color: #edc534;
+    background-color: #9e0c31;
+    font-family: Arial, sans-serif;
+    width: 90%;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: left;
+}
+
+.pagecontent {
+    color: #edc534;
+    background-color: #9e0c31;
+    font-family: Arial, sans-serif;
+    width: 90%;
+    font-size: 16px;
+    text-align: left;
+}
