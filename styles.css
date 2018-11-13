@@ -72,5 +72,6 @@ a:hover {
 }
 
 a:active {
+    color: goldenrod;
     border: 4px, solid, #9e0c31;
 }
