@@ -5,7 +5,7 @@ body {
     width: 100%;
 }
 
-#contentoverview {
+.contentoverview {
     color: whitesmoke;
     background-color: black;
     background: url("paper.jpg");
@@ -24,7 +24,7 @@ body {
     border-radius: 25px;
 }
 
-#contentoverview ul {
+.contentoverview ul {
     list-style-type: none;
 }
 
