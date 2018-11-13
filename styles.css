@@ -42,10 +42,10 @@ body {
 }
 
 #frontpagetitle {
-   color: #edc534;
    font-size: 28px;
    border: 6px dotted #36454f;
    padding: 2px;
+   border-radius: 10px;   
 }
 
 .pagesubtitle {
