@@ -16,7 +16,8 @@ body {
     margin: auto;
     padding: 1px;
     text-align: center;
-    font-size: 22px;
+    font-family: courier, sans-serif;
+    font-size: 22px; 
     font-weight: bold;
     border: 4px solid white;
     margin-top: 8px;
