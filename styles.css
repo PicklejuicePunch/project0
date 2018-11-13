@@ -42,7 +42,8 @@ body {
 }
 
 #frontpagetitle {
-   color: #edc534
+   color: #edc534;
+   font-size: 28px;
 }
 
 .pagesubtitle {
