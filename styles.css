@@ -75,3 +75,33 @@ a:active {
     color: goldenrod;
     border: 4px, solid, #9e0c31;
 }
+
+.query {
+    margin: 12px;
+    padding: 4px;
+    border: 4px solid goldenrod;
+    border-radius: 20px;
+    background-color: #36454f;
+}
+
+.query button   {
+    color: #edc534;
+    background-color: #36454f;
+    border: 2px solid goldenrod;
+    border-radius: 12px;
+    margin: 5px;
+}  
+
+#feedbackform {
+   width: 40%;
+   margin-top: 18px;
+}
+
+#feedbackform ul {
+    list-style: none;
+}
+
+#favactivity {
+    width: 65%;
+    text-align: center
+}
