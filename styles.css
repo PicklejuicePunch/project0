@@ -29,15 +29,9 @@ body {
 }
 
 .pagetitle {
-    color: #edc534;
-    background-color: #9e0c31;
-    font-family: Arial, sans-serif;
-    width: 90%;
-    font-size: 24px;
     font-weight: bolder;
-    text-align: left;
-    margin: auto;
-    margin-top: 18px;
+    margin-top: 36px;
+    margin-bottom: 20px;
 }
 
 #frontpagetitle {
