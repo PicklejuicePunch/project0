@@ -109,7 +109,7 @@ a:hover {
     }
 }
 
-.listinlist ol > li {
+.listinlist ul > li {
         color: green;
     }
 
