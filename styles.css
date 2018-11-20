@@ -86,7 +86,7 @@ a:hover {
 
 .query button:hover {
     color: #9e0c31;
-    border: 4px solid #9e0c31
+    border: 4px solid #9e0c31;
 }
 
 #feedbackform {
@@ -100,7 +100,7 @@ a:hover {
 
 #favactivity {
     width: 65%;
-    text-align: center
+    text-align: center;
 }
 
 @media print {
@@ -108,3 +108,8 @@ a:hover {
         display: none;
     }
 }
+
+.listinlist ol > li {
+        color: green;
+    }
+
